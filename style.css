@@ -433,3 +433,37 @@ background-size: cover;
 .text h2 {
     color: chocolate;
 }
+.sixth-section {
+background-image: url(testimonials.jpg);
+background-position: center;
+/* background-size: contain; */
+background-repeat: no-repeat;
+background-size: cover;
+/* border: 1px solid black; */
+height:300px;
+}
+.sixth-section h2 {
+    position: relative;
+    left:520px;
+    /* border: 1px solid red; */
+    width:30%;
+    top:20px;
+}
+.sixth-section img {
+    position:relative;
+    left:560px;
+    top: 40px;
+}
+.sixth-section p {
+    position: relative;
+    left:410px;
+    width:40%;
+    top: 40px;
+}
+.sixth-section h2 {
+    color: black;
+
+}
+.sixth-section p {
+    color: white;
+}
