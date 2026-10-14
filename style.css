@@ -341,8 +341,9 @@ background-size: cover;
     border: 1px solid red;
 }
 .fifth-section {
-    border: 1px solid black;
-    height:1700px;
+    /* border: 1px solid black; */
+    height:900px;
+    background-color: antiquewhite;
 }
 .onee {
     /* border:1px solid red; */
@@ -421,4 +422,14 @@ background-size: cover;
     position:relative;
     left:970px;
     top:-710px;
+}
+.text {
+    position:relative;
+    /* border:1px solid red; */
+    top:70px;
+    width:30%;
+    left:580px;
+}
+.text h2 {
+    color: chocolate;
 }
