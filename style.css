@@ -342,43 +342,83 @@ background-size: cover;
 }
 .fifth-section {
     border: 1px solid black;
+    height:1700px;
 }
 .onee {
-    border:1px solid red
+    /* border:1px solid red; */
+    position:relative;
+    top:-200px;
+    left:30px;
 }
 .twoo{
-    border:1px solid yellow
+    /* border:1px solid yellow; */
+    position:relative;
+    top:-200px;
+    left: 32px;
 }
 .threee{
-    border:1px solid green
+    /* border:1px solid green; */
+    position:relative;
+    top:150px;
+    left:35px;
 }
 .fourr{
-    border:1px solid blue
+    /* border:1px solid blue; */
+    position:relative;
+    top:-380px;
+    left: 41px;
 }
 .fivee{
-    border:1px solid pink
+    /* border:1px solid pink; */
+    position:relative;
+    top:-380px;
+    left:60px;
 }
 .sixx {
-    border:1px solid purple
+    /* border:1px solid purple; */
+    position: relative;
+    top:-370px;
+    left:30px;
 }
 .sevenn{
-    border:1px solid brown
+    /* border:1px solid brown; */
+    position:relative;
+    top:-370px;
+    left: 55px;
 }
 .eightt {
-    border:1px solid orange
+    /* border:1px solid orange; */
+    position:relative;
+    top:-190px;
+    left:64px;
 }
 .ninee {
-    border:1px solid rebeccapurple
+    /* border:1px solid rebeccapurple; */
+    position:relative;
+    top:-195px;
+    left:450px
 }
 .tenn {
-    border:1px solid lightblue
+    /* border:1px solid lightblue; */
+    position: relative;
+    left:-850px;
+    top:-190px;
 }
 .elevenn {
-    border: 1px solid lightcoral;
+    /* border: 1px solid lightcoral; */
+    position:relative;
+    left: -825px;
+    top:-190px;
 }
 .twelvenn {
-    border: 1px solid lightgreen;
+    /* border: 1px solid lightgreen; */
+    position:relative;
+    left:947px;
+    top: -710px;
 }
 .thirteenn {
-    border: 1px solid wheat;
+    /* border: 1px solid wheat; */
+    position:relative;
+    left:970px;
+    top:-710px;
 }
