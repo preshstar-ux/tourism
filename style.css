@@ -343,4 +343,42 @@ background-size: cover;
 .fifth-section {
     border: 1px solid black;
 }
-.
+.onee {
+    border:1px solid red
+}
+.twoo{
+    border:1px solid yellow
+}
+.threee{
+    border:1px solid green
+}
+.fourr{
+    border:1px solid blue
+}
+.fivee{
+    border:1px solid pink
+}
+.sixx {
+    border:1px solid purple
+}
+.sevenn{
+    border:1px solid brown
+}
+.eightt {
+    border:1px solid orange
+}
+.ninee {
+    border:1px solid rebeccapurple
+}
+.tenn {
+    border:1px solid lightblue
+}
+.elevenn {
+    border: 1px solid lightcoral;
+}
+.twelvenn {
+    border: 1px solid lightgreen;
+}
+.thirteenn {
+    border: 1px solid wheat;
+}
